@@ -3,7 +3,7 @@
 Hi there, I'm Filip, a data analyst from Poland. Feel free to explore my projects and repositories.
 
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/filip123x/](https://www.linkedin.com/in/filip-przyczyna/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/filip-przyczyna/))
 
 ## Stats
 
