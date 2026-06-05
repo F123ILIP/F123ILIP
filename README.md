@@ -64,25 +64,12 @@ Below are my top repos — each project taught me something practical about data
 ---
 
 ## GitHub stats
-<!--
-If you dislike widgets, remove this section.
-Some widgets can be rate-limited or blocked by privacy settings.
--->
 
 <div align="center">
 
-<img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=F123ILIP&show_icons=true&hide_title=true&rank_icon=github" />
-<img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F123ILIP&layout=compact" />
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=F123ILIP&theme=github_dark)
 
 </div>
-
-<div align="center">
-
-<img alt="Streak Stats" src="https://streak-stats.demolab.com?user=F123ILIP" />
-
-</div>
-
-
 
 ---
 
@@ -94,6 +81,3 @@ Some widgets can be rate-limited or blocked by privacy settings.
 <!-- Portfolio: https://your-domain.com -->
 
 ---
-
-
-</details>
