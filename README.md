@@ -60,16 +60,7 @@ Below are my top repos — each project taught me something practical about data
 | **COVID_Project** | Data analysis / modeling around COVID data. Emphasis on cleaning, exploration, and communicating insights. | Python, analytics, visualization, EDA | [Repo](https://github.com/F123ILIP/COVID_Project) |
 | **AS_Pomiary** | Measurements / analysis project (engineering/data processing style). Focus on method + reproducibility. | Python, data processing, analysis | [Repo](https://github.com/F123ILIP/AS_Pomiary) |
 | **Algorytm_genetyczny** | Genetic algorithm implementation/experiments. Great for optimization intuition and algorithmic thinking. | Python, optimization, heuristics | [Repo](https://github.com/F123ILIP/Algorytm_genetyczny) |
-
----
-
-## GitHub stats
-
-<div align="center">
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-stats?username=F123ILIP&theme=github_dark)
-
-</div>
+| **RGA** | [Add description] | [Add keywords] | [Repo](https://github.com/F123ILIP/RGA) |
 
 ---
 
